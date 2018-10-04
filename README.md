@@ -12,4 +12,4 @@ Mining , pre-processing and embedding 650,000 Amazon Movie &amp; T.V. reviews to
 <h3>
 1-Star Review(Clearly Negative)
 </h3>
-
+<img src = 'https://github.com/satyamt13/Project_Amazon_reviews_NLP_recommender_system/blob/master/1_star_pred_explained.png'>
