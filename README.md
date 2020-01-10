@@ -1,5 +1,5 @@
 # Project_Amazon_reviews_NLP_recommender_system
-Mining , pre-processing and embedding over 1 million Amazon Movie & T.V. reviews to build a multi class Naive Bayes model, and a CNN-LSTM model to predict rating from text and interpreting the classifier using local surrogate models using the LIME library. Using LDA topic modeling to build a theme based recommender from the reviews and using a model based collaborative filtering system using SVD  matrix factorization to build a second recommender system. 
+Mining , pre-processing and embedding over 1 million Amazon Movie & T.V. reviews to build a multi class Naive Bayes model and later a CNN-LSTM model (that uses the Naive Bayes model as a baseline) to predict rating from text. Interpreting the original classifier using local surrogate models using the LIME library. Using LDA topic modeling to build a theme based recommender from the reviews and using a model based collaborative filtering system using SVD  matrix factorization to build a second recommender system.
 
 
 <h2>LIME Explainer Screenshots from fitted Naive Bayes Model on the review data (Not rendering in the .ipynb notebook on this repo)</h2>
